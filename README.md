@@ -57,3 +57,7 @@ After assigning a ticket to an agent, I will pretend like I know what to do to s
 
 I logged out and logged back in as system admin and went to My ticket -> Closed. And from here I can see what tickets have been closed and who worked on that. In this case Jane resolved it
 ![image](https://github.com/danielbangm/ticket-lifecycle/assets/22795502/aa562a56-b288-4679-834e-1978a40ef13f)
+
+<h2>Conclusion</h2>
+
+During this Lab I have learnt how the osTicketing system works. I created tickets and solved one of them by assigning to the right departmetn, team and agent and also changed the SLA to make it urgent, I replied to thread and then resolved the ticket. It was fun to work on this projet and I gain a lot of hands-on 
